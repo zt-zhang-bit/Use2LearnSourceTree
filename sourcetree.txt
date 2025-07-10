@@ -14,4 +14,3 @@ sourcetree初始代码
 新增新节点2
 >>>>>>> TestBranch1
 
-新增在主节点的内容
